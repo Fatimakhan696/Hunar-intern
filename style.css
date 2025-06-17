@@ -1,0 +1,133 @@
+ #container1 {
+    background-color: #f4f1e8;
+    width:1500px;
+    height:200px;
+    text-align:center;
+    padding-top:5%;
+    padding-bottom: 10%;
+    color:#9b4819;
+    font-size: xx-large;
+    border-width: 10px;
+    z-index:0;
+    margin: 10px;
+    margin-bottom:0;
+ }
+ 
+
+ #myid {
+    color:black;
+    text-align:center;
+ }
+
+ #container2 {
+    background-color:#9b4819;
+    width: 1500px;
+    height: 80px;
+    margin:   5px;
+    color:black;
+    text-align:center;
+    font-size:x-large;
+    padding: 2px;
+
+ }
+
+ #container3 {
+    background-color:#f4f1e8;
+    width: 1500px;
+    height:180px;
+    margin:5px;  
+    padding-top:40px;
+    text-align:center;
+    font-size:x-large;
+
+ }
+
+ #container4 {
+    background-color:#9b4819;
+    width: 1500px;
+    height: 80px;
+    margin:   5px;
+    color:black;
+    text-align:center;
+    font-size:x-large;
+    padding: 2px;
+    
+ }
+
+ #container5 {
+   background-color:#f4f1e8;
+    width: 1500px;
+    height:180px;
+    margin:5px;  
+    padding-top:40px;
+    text-align:center;
+    font-size:x-large;
+   
+ }
+
+ #container6 {
+    background-color:#9b4819;
+    width: 1500px;
+    height: 80px;
+    margin:   5px;
+    color:black;
+    text-align:center;
+    font-size:x-large;
+    padding: 2px;
+    
+ }
+
+ #container7 {
+   background-color:#f4f1e8;
+    width: 1500px;
+    height:180px;
+    margin:5px;  
+    padding-top:40px;
+    text-align:center;
+    font-size:x-large;
+   
+ }
+
+ #container8 {
+    background-color:#9b4819;
+    width: 1500px;
+    height: 120px;
+    margin:   5px;
+    color:black;
+    text-align:center;
+    font-size:x-large;
+    padding: 2px;
+    
+ }
+
+ #container9 {
+   background-color:#f4f1e8;
+    width: 1500px;
+    height:180px;
+    margin:5px;  
+    padding-top:10px;
+    text-align:center;
+    font-size:x-large;
+   
+ }
+
+ .social-icon {
+   color:#9b4819;
+   margin: 0 10px;
+   font-size: xx-large;
+   
+}
+ 
+.social-icon :hover {
+   color:black;
+   transition:color 0.2s;
+   
+
+ }
+ 
+
+ @media only screen and (max-width: 500px) {
+   body {
+      background-color:white;
+   }
+ }
